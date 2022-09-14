@@ -2,8 +2,8 @@
 My Colobot scripts and others things.
 
 ### Description
-- Bot
-  - This is an utilities script for various types of bots. Contains fucnctions like:
+##### Bot
+- This script contains functions for various types of bots. They are listed here:
     - Bot::AutoHeat() - _For any bots._
     - Bot::AutoCharge() - _For any bots._
     - Bot::AutoShield() - _For any bots._
